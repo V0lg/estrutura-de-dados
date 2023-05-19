@@ -1,0 +1,11 @@
+tecnologias para baixar:
+
+* https://python.org -> baixar o python.
+* anacona -> software interessante para ter diversos ambientes python com diferentes versões.
+
+opções de ides:
+
+* jupyter notebook
+* pycharm.
+* vscode. -> achei o mais interessante.
+* spyder.

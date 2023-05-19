@@ -1,0 +1,11 @@
+introdução a python:
+
+* Criada em 1991 por Guido Van Rossum.
+* Simples e de fácil aprendizado.
+* Portátil. (funciona em diversos sistemas operacionais)
+* Desenvolvimento web.
+* Inteligência artificial.
+* Big data.
+* Ciência de dados.
+* Computação gráfica.
+* Linguagem bastante popular. 
