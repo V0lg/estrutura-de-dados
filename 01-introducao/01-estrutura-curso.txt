@@ -1,0 +1,19 @@
+Curso de estrutura de dados, conteúdo:
+
+* Programação básica em python.
+* Notação big-o.
+* Vetores não ordenados e ordenados. 
+* Pilhas, filas e deques.
+* Listas encadeadas. (orientação a objeto)
+* Recursão.
+* Algoritmos de ordenação:
+	1. bubble sort. (básico)
+	2. selection sort. (básico)
+	3. shell sort. (básico)
+	4. merge sort. (intermediário)
+	5. quick sort. (intermediário)
+* Árvores.
+* Grafos:
+	1. busca em largura e profundidade.
+	2. busca gulosa e A*.
+	3. algoritmo de dijkstra.

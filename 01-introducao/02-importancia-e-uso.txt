@@ -1,0 +1,20 @@
+estrutura de dados:
+
+* disciplina que estuda as técnicas computacionais para a organização e manipulação eficiente de quaisquer quantidades de informações.
+
+exemplo de problemas:
+	1. encontrar o caminho mais confiável entre dois dispositivos, dado que temos canais e esses canais tem valores associados que 
+representam sua confiabilidade. 
+	2. encontrar o fluxo máximo entre duas cidades, dado que temos uma rede de ferrovias conectando duas cidades, cada ferrovia tem
+uma capacidade de transporte especifica.
+	3. achar a menor rota entre uma cidade e outra. 
+
+como aprender estrutura de dados vai me ajudar?
+
+* a como representar esses problemas em computadores.
+* a como construir os algoritmos necessários.
+* a definir que estrutura de dados utilizar.
+* de que forma os dados vão estar organizados.
+* entender as operações que podem ser realizadas nestes dados.
+
+# entender sobre estrutura de dados é essencial para garantir que os algoritmos sejam eficientes.
